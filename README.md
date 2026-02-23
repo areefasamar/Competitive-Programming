@@ -20,5 +20,5 @@ This repository serves as a personal archive of my coding journey. It contains s
 4.  **Document:** Storing the solution here for future reference and growth tracking.
 
 ---
-*“Always remember that the expert in anything was once a beginner, just stay consistent and beleive in yourself”*
+*“Always remember that the expert in anything was once a beginner, just stay consistent and believe in yourself”*
 
