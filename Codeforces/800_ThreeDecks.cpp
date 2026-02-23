@@ -1,3 +1,7 @@
+// Problem: Three Decks
+// URL: https://codeforces.com/contest/2104/problem/A
+// Rating: 800
+
 #include <bits/stdc++.h>
 using namespace std;
 

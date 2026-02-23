@@ -1,3 +1,7 @@
+// Problem: Perfect Root
+// URL: https://codeforces.com/contest/2185/problem/A
+// Rating: 800
+
 #include <iostream>
 
 using namespace std;

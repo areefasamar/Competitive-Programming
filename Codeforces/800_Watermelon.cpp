@@ -1,3 +1,7 @@
+// Problem: Watermelon
+// URL: https://codeforces.com/contest/4/problem/A
+// Rating: 800
+
 #include <iostream>
 
 using namespace std;

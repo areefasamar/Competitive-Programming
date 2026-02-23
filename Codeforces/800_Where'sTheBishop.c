@@ -1,5 +1,8 @@
-#include <stdio.h>
+// Problem: Where's The Bishop
+// URL: https://codeforces.com/contest/1692/problem/C
+// Rating: 800
 
+#include <stdio.h>
 int main() {
     int t;
     scanf("%d", &t);

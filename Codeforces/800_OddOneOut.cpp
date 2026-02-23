@@ -1,3 +1,7 @@
+// Problem: Odd One Out
+// URL: https://codeforces.com/contest/1915/problem/A
+// Rating: 800
+
 #include<bits/stdc++.h>
 using namespace std;
 int main(){

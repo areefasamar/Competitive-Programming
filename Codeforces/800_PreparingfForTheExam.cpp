@@ -1,3 +1,7 @@
+// Problem: Preparing For The Exam
+// URL: https://codeforces.com/contest/2198/problem/C
+// Rating: 800
+
 #include <bits/stdc++.h>
 using namespace std;
 

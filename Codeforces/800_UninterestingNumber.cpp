@@ -1,3 +1,7 @@
+// Problem: Uninteresting Number
+// URL: https://codeforces.com/contest/2198/problem/D
+// Rating: 800
+
 #include <bits/stdc++.h>
 using namespace std;
 

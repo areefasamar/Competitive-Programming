@@ -1,3 +1,7 @@
+// Problem: Way Too Long Words
+// URL: https://codeforces.com/contest/71/problem/A
+// Rating: 800
+
 #include <iostream>
 #include <string>
 

@@ -1,3 +1,7 @@
+// Problem: Team
+// URL: https://codeforces.com/contest/231/problem/A
+// Rating: 800
+
 #include <iostream>
 using namespace std;
 int main() {
