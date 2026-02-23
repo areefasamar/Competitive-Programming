@@ -10,7 +10,7 @@ This repository serves as a personal archive of my coding journey. It contains s
 
 ## 🛠️ Tech Stack & Tools
 * **Languages:** C++, C, Python (primarily focusing on C++ for competitive programming).
-* **Editor:** VS Code / GitHub Web Editor.
+* **Editor:** VS Code / GitHub Web Editor / DevC++.
 * **Platforms:** LeetCode, Codeforces, VJudge.
 
 ## 🎯 My Approach
