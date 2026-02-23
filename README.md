@@ -1,2 +1,2 @@
-# LeetCode
-Solution Of LeetCode Problems
+# Competitive Programming
+
