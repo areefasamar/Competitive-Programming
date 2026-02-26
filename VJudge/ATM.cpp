@@ -1,3 +1,5 @@
+//URL: https://vjudge.net/problem/CodeChef-HS08TEST
+
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
@@ -13,4 +15,5 @@ int main(){
     cout << fixed << setprecision(2) << Y;
 
     return 0;
+
 }
