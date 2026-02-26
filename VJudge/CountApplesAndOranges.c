@@ -1,3 +1,5 @@
+//URL: https://vjudge.net/problem/HackerRank-apple-and-orange
+
 #include <stdio.h>
 
 int main() {
@@ -35,4 +37,5 @@ int main() {
     printf("%d\n", orangeCount);
 
     return 0;
+
 }
