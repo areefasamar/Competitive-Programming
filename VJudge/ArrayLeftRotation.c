@@ -1,3 +1,5 @@
+//URL: https://vjudge.net/problem/HackerRank-ctci-array-left-rotation
+
 #include<stdio.h>
 int main(void)
 {
@@ -29,4 +31,5 @@ int main(void)
 		printf("%d ",b[i]);
 	}
 	return 0;
+
 }
