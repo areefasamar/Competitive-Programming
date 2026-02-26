@@ -1,3 +1,5 @@
+//URL: https://vjudge.net/problem/CodeForces-2148A
+
 #include <stdio.h>
 int main () {
 	int t , x , n , i , j , sum=0 ;
@@ -14,4 +16,5 @@ int main () {
 		printf("%d\n" , sum) ; 
 	}
 return 0 ; 
+
 }
