@@ -4,36 +4,22 @@
 
 #include<bits/stdc++.h>
 using namespace std;
+
 int main(){
-	int matrix[5][5];
-	int row, column;
-	
-	for(int i=0 ; i<5 ; i++){
-	    for(int j=0 ; j<5 ; j++){
-	    	cin>>matrix[i][j];
-	    	if (matrix[i][j]==1){
-	    		row = i+1;
-	    		column = j+1;
-			}
-		}
-		cout<<endl;
-	}
-	
-	int steps;
-	if( row==1 || row==5 ){
-		steps+=2;
-	}
-	if ( row==2 || row==4 ){
-		steps++;
-	}
-	
-	if( column==1 || column==5 ){
-		steps+=2;
-	}
-	if ( column==2 || column==4 ){
-		steps++;
-	}
-	cout<<steps<<endl;
-	return 0;
-	
+    int val, row, col;
+    
+    for(int i = 1; i <= 5; i++){
+        for(int j = 1; j <= 5; j++){
+            cin >> val;
+            if (val == 1){
+                row = i;
+                col = j;
+            }
+        }
+    }
+    
+    int steps = abs(row - 3) + abs(col - 3);
+    
+    cout << steps << endl;
+    return 0;
 }
