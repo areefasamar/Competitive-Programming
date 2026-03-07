@@ -2,8 +2,6 @@
 //URL: https://vjudge.net/contest/794807#problem/H
 //Rating: 800
 
-
-
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
