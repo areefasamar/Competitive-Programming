@@ -1,4 +1,5 @@
 //URL: https://vjudge.net/contest/806028#problem/A
+
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
