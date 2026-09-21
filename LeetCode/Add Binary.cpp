@@ -19,6 +19,7 @@ int main() {
         result = char(sum % 2 + '0') + result;
         carry = sum / 2;
     }
+    
 
     cout << result;
 
