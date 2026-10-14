@@ -31,5 +31,4 @@ int main(void)
 		printf("%d ",b[i]);
 	}
 	return 0;
-
 }
